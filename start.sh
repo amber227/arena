@@ -5,4 +5,5 @@ jupyter notebook \
   --no-browser \
   --NotebookApp.token='' \
   --NotebookApp.password='' \
+  --ServerApp.disable_check_xsrf=True \
   --allow-root
