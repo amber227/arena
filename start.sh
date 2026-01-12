@@ -4,4 +4,5 @@ jupyter notebook \
   --port=8888 \
   --no-browser \
   --NotebookApp.token='' \
-  --NotebookApp.password=''
+  --NotebookApp.password='' \
+  --allow-root
